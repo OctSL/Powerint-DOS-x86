@@ -25,6 +25,7 @@ You can install it according to the above steps if you have a real machine.
 
 ### Q2: How do I enter the installation key?
   A：
+  
           OEMXX-K08V5-e4C2h-jbCBa-SETUP
           OEMXX-11111-11111-11111-SETUP
 ### Q3: What should I do after installation?
