@@ -28,7 +28,4 @@ You can install it according to the above steps if you have a real machine.
   
       OEMXX-K08V5-e4C2h-jbCBa-SETUP
       OEMXX-11111-11111-11111-SETUP
-### Q3: What should I do after installation?
-A: Hang the floppy disk empty and restart the virtual machine.
-### Q4: How to use Powerint DOS?
-A: With a DOS foundation, it is not a problem. Those who don't have a DOS foundation but will look at the code, go to the code. You just check the DOS basics on the Internet by yourself.
+
